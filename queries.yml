@@ -1,0 +1,11 @@
+queries:
+  - id: 1
+    file: queries/usdc_avail_total_volume.sql
+  - id: 2
+    file: queries/usdc_avail_daily_volume.sql
+  - id: 3
+    file: queries/usdc_avail_buy_volume.sql
+  - id: 4
+    file: queries/usdc_avail_sell_volume.sql
+  - id: 5
+    file: queries/usdc_avail_holders.sql
